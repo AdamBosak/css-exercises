@@ -11,3 +11,9 @@
 .cooler {
     font-size: 24px;
 }
+
+#fourth-element {
+    background-color: rgba(108, 246, 122, 0.685);
+    font-size: 24px;
+    font-weight: bold;
+}
